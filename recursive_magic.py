@@ -1,7 +1,7 @@
 """
-    @file: magic_cards.py
+    @file: recursive_magic.py
     @author: Spencer j Potts
-    @Date: 4/18/2019
+    @Date: 4/18/2019 : 3:00am
     @Description: recursive example of guess your number game.
 
 """

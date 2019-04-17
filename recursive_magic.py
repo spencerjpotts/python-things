@@ -52,6 +52,6 @@ def sortItems(items, iteration=1):
         return stack[11]
 
 
-cards = [None, 'A', 'B', 'C', 'D', 'E', 'F', 'G', 'J', 'I', 'J', 'K', 'L', 'M', 'N', 'O', 'P', 'Q', 'R', 'S', 'T', 'U']
+cards = [None, 'A', 'B', 'C', 'D', 'E', 'F', 'G', 'H', 'I', 'J', 'K', 'L', 'M', 'N', 'O', 'P', 'Q', 'R', 'S', 'T', 'U']
 print("Select a letter then tell me the column it's in.")
 print("Your letter: ", sortItems(cards))
